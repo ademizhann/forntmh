@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Borbekova Aruzhan",
+    "rating": 4,
+    "text": "CheckAI provides clear analysis of test results and helpful lifestyle tips. The website works well and shows clinic options clearly. It would be perfect with home service booking and a mobile app. Great tool overall, just needs a couple extra features!"
+  },
+  {
+    "id": 2,
+    "name": "Tolegenova Zhanymgul",
+    "rating": 5,
+    "text": "Very convenient website—I quickly found the clinic I needed and booked effortlessly! Everything worked perfectly, from search to confirmation. Highly recommend!"
+  },
+  {
+    "id": 3,
+    "name": "Ardak Aruzhan",
+    "rating": 5,
+    "text": "I’m truly impressed by the CheckAI service! It doesn’t just throw raw numbers from lab tests at you—it provides a detailed breakdown with clear explanations. For example, if your hemoglobin is slightly low, the AI doesn’t alarm you but calmly suggests: ‘This might be due to an iron deficiency—try adding buckwheat or pomegranate juice to your diet."
+  }
+]
