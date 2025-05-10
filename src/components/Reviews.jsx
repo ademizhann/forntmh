@@ -10,7 +10,7 @@ import {
 } from "@mui/material";
 import Rating from "@mui/material/Rating";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { EffectCoverflow, Navigation } from "swiper/modules";
+import { EffectCoverflow, Navigation } from "swiper";
 import { ArrowBackIos, ArrowForwardIos } from "@mui/icons-material";
 import "swiper/css";
 import "swiper/css/effect-coverflow";
